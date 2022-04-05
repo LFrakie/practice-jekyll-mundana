@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Holo This is my first post
-author: Franz
+categories: [ Forest ]
 categories:
 - nose-categori
 image: "/uploads/frankobsidian-obsidian-v0-12-15.jpg"
