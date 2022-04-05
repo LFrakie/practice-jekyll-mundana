@@ -12,11 +12,9 @@ eso ayudó a solucionar el problema.
 
 -----
 
-
 ## Imagen Rota en develop
 Otro problemita que teniamos era que teniamos la segunda **imagen** despues de **latest** rota, por lo que decidimos modficiar un codigo en:
 la linea 57 de index.html
-
 
 ## Deploy en forestry
 1 Subimos nuestro proyecto a github
