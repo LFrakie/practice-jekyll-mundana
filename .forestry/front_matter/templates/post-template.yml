@@ -5,12 +5,11 @@ fields:
 - type: text
   name: layout
   label: layout
+  hidden: true
+  default: post
 - type: text
   name: title
   label: title
-- type: text
-  name: author
-  label: author
 - type: list
   name: categories
   label: categories
@@ -21,4 +20,5 @@ fields:
   name: tags
   label: tags
 pages:
-- _posts/practice-post.md
+- _posts/other-post.md
+- _posts/rose-post.md
