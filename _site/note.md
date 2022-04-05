@@ -22,5 +22,6 @@ la linea 57 de index.html
 1 Subimos nuestro proyecto a github y gh pages (generamos el link y la rama master)
 2 lo vinculamos con forestry desde el dashboard donde dice **Add Site**
 3 Se apertura el **setup process** 1, 2 y 3 le damos a **mark as done**, es probable que nos vaya a dar problemas el 4to paso con esta plantilla pero tmbn lo omitiremos.
-4 listo con esto solo nos queda revisar si funciona correctamente 
+4 Cuando intentemos crear un nuevo **post** nos pedira crear una plantilla > le damos a crear nuevo a partir de > elegimos algun post anterior.  
+5 listo con esto solo nos queda revisar si funciona correctamente. 
 
