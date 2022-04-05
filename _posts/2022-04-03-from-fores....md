@@ -1,5 +1,5 @@
 ---
-layout: post-pp
+layout: post
 title: 'From fores... '
 author: Lfranz
 categories: []
