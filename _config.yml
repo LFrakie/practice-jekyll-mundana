@@ -21,6 +21,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-admin
 authors:
+
+    franz:
+      name:           Franz
+      site:           https://www.lfmtree.net
+      avatar:         /assets/images/avatar3.jpg
+      bio:            "Hi, I am Franz, the author of LF, the theme you're currently previewing. I hope you like it!"
+      email:          LFmtree@gmail.com
+      twitter:        https://twitter.com/LFmtree
+
     sal:
       name:           Sal
       site:           https://www.wowthemes.net
@@ -65,3 +74,7 @@ paginate: 10
 
 # Exclude metadata and development time dependencies (like Grunt plugins)
 exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]
+
+# Opciones de configuración del servidor 
+livereload : true      # Ya no necesita incluir --livereload 
+#reload_port : 5678     # Si no desea usar el puerto predeterminado

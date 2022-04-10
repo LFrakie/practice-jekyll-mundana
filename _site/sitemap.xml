@@ -107,6 +107,12 @@
 <loc>http://0.0.0.0:4000/practice-jekyll-mundana/about.html</loc>
 </url>
 <url>
+<loc>http://0.0.0.0:4000/practice-jekyll-mundana/all-posts.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/practice-jekyll-mundana/author-franz.html</loc>
+</url>
+<url>
 <loc>http://0.0.0.0:4000/practice-jekyll-mundana/author-jane.html</loc>
 </url>
 <url>
@@ -117,6 +123,9 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/practice-jekyll-mundana/buy-me-a-coffee.html</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/practice-jekyll-mundana/cat.html</loc>
 </url>
 <url>
 <loc>http://0.0.0.0:4000/practice-jekyll-mundana/categories.html</loc>
@@ -138,5 +147,13 @@
 </url>
 <url>
 <loc>http://0.0.0.0:4000/practice-jekyll-mundana/page3/</loc>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/practice-jekyll-mundana/admin/cp-index.html</loc>
+<lastmod>2022-04-08T22:23:19-05:00</lastmod>
+</url>
+<url>
+<loc>http://0.0.0.0:4000/practice-jekyll-mundana/admin/</loc>
+<lastmod>2022-04-08T22:23:19-05:00</lastmod>
 </url>
 </urlset>

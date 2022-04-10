@@ -1,9 +1,8 @@
 ---
 layout: post
-title: 'Other post '
+title: 'Other Spyder post '
 author: ''
-categories:
-- wallapers
+categories: [ News ]
 image: "/uploads/thumbnail.jpg"
 tags:
 - spyder
@@ -11,4 +10,4 @@ tags:
 ---
 ## Spyder Post
 
-Otro nuevo post
+Otro nuevo post gg bueno ahora no se

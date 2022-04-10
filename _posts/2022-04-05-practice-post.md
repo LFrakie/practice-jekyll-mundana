@@ -2,7 +2,7 @@
 layout: post
 title: Practice Post
 author: Lfrakie
-categories: []
+categories: [ News ]
 image: "/uploads/prtscr-capture_79.jpg"
 tags: []
 
