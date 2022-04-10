@@ -13,6 +13,14 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: documents
+      section: jekyll-posts
+      file: _posts/2022-04-05-rose-post.md
+      path: categories
+    options: []
 - type: file
   name: image
   label: image
